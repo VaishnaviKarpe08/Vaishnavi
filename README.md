@@ -1,2 +1,2 @@
 # Vaishnavi
-Author -V.S.Karpe
+Author -Vaishnavi.S.Karpe
